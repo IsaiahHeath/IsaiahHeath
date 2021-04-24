@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaiahHeath
 - 👀 I’m interested in Statistics, Cryptography, Big Data, and Smart Contracts.
-- 🌱 I’m currently learning Solidity and how Zero-Knowledge Proofs work in detail.
+- 🌱 I’m currently learning Solidity and Michelson.
 - 💞️ I’m looking to collaborate on the Ethereum and Tezos blockchain.
 - 📫 How to reach me: iheath2@illinois.edu
 
